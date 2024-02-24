@@ -1,0 +1,27 @@
+/* #cc {
+    font-weight: bold ;
+    color: orange;     -- chọn theo id
+}   */
+
+
+/* h1 {
+    color : green;   -- chọn theo thẻ
+} */
+
+
+/* .tieude {
+    color : blue;          -- chọn theo class
+    background: black;
+} */
+
+/* #menu ul li {
+    background:  gray;   -- chonj theo thứ cấp
+    color: red;
+
+} */
+
+/* #menu ul ul > #cc
+{
+    background: beige;
+    color : blue;
+} */
